@@ -18,9 +18,9 @@
 
 ## Getting Started / Manual
 
-[View the latest manual for `kube-aws`](https://kubernetes-incubator.github.io/kube-aws/)
+[View the latest manual for `kube-aws`](https://kubernetes-retired.github.io/kube-aws/)
 
-Check out our [getting started tutorial](https://kubernetes-incubator.github.io/kube-aws/getting-started/) 
+Check out our [getting started tutorial](https://kubernetes-retired.github.io/kube-aws/getting-started/) 
 to launch your first Kubernetes cluster on AWS.
 
 ## Examples
